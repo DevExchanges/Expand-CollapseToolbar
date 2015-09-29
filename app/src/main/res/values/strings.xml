@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Expand/Collapse ActionBar</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="expand">Expand/Collapse ActionBar</string>
+    <string name="hide">Show/Hide ActionBar when scroll</string>
+    <string name="paralax">ActionBar Parallax Animations</string>
+</resources>
